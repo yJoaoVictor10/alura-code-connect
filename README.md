@@ -73,3 +73,14 @@ Entre em contato:
 GitHub: yJoaoVictor10
 
 LinkedIn: João Victor Nascimento Adão
+
+
+## 🌐 Meu Portfólio Online
+
+Confira meus projetos e habilidades nos links abaixo:
+
+🔗 **Versão hospedada no Vercel**  
+https://alura-code-connect-neon.vercel.app/
+
+🔗 **Versão hospedada no GitHub Pages**  
+https://yjoaovictor10.github.io/alura-code-connect/
